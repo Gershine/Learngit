@@ -5,5 +5,7 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Managing branch.
 Git is a free software.
+Bug is fixed.
+
 
 
